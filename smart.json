@@ -1,0 +1,9 @@
+{
+    "name": "jqBootstrapValidation",
+    "description": "packaging jqBootstrapValidation for meteor JS.",
+    "author": "Wahyu AW",
+    "homepage": "https://github.com/wahyuaw/meteor-jqBootstrapValidation",
+    "version": "0.0.1",
+    "git": "https://github.com/wahyuaw/meteor-jqBootstrapValidation.git",
+    "packages": {}
+}
